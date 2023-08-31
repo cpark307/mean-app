@@ -1,0 +1,22 @@
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a.mat-accent {
+    color: #ff4081 !important;
+}
+
+.mat-mdc-text-field-warpper {
+    background-color: transparent !important;
+}
+
+.spacer {
+    flex: 1 1 auto;
+}
