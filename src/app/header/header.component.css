@@ -17,6 +17,10 @@ a.mat-accent {
     background-color: transparent !important;
 }
 
+UL {
+    display: flex;
+}
+
 .spacer {
     flex: 1 1 auto;
 }

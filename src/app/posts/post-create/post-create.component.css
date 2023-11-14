@@ -3,17 +3,16 @@ textarea {
     width: 100%;
 }
 
+mat-spinner {
+    margin: auto;
+}
+
 button {
     margin-bottom: 1rem;
 }
 
 button[type=submit] {
     margin-left: 1rem;
-}
-
-
-mat-spinner {
-    margin: auto;
 }
 
 input[type=file] {
